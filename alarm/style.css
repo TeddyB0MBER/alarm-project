@@ -71,7 +71,7 @@ body{
   border-radius: 5px;
   background: #4A98F7;
 }
-.nav-item{
+.nav-link{
   font-size: larger;
   justify-content: center;
 }

@@ -14,17 +14,17 @@
 body{
   padding: 0 10px;
   min-height: 100vh;
-  background: #4A98F7;
+  background: rgb(69, 68, 66)
 }
 .wrapper{
-  width: 440px;
+  width: 700px;
   padding: 30px 30px 38px;
   background: #fff;
   border-radius: 10px;
   flex-direction: column;
   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-  margin-left: 750px;
-  margin-top: 150px;
+  margin-left: 605px;
+  margin-top: 90px;
 }
 .wrapper img{
   max-width: 103px;
@@ -71,9 +71,28 @@ body{
   border-radius: 5px;
   background: #4A98F7;
 }
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-top: 10px;
+}
 .nav-link{
   font-size: larger;
   justify-content: center;
 }
+
+
+
+
+
+
 
 
